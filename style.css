@@ -6,6 +6,7 @@ body{
 h1{
     display: inline-block;
     border-bottom: 3px solid rgb(239, 240, 216);
+    margin-bottom: 50px;
 }
 
 a{
@@ -15,4 +16,24 @@ a{
 a:hover{
     text-decoration: line-through;
     color: blue;
+}
+.mimage{
+    width: 100%;
+    height: 100px;
+    margin-bottom: 5px;
+}
+h3{
+    margin-top: 4px;
+}
+table{
+    margin: auto;
+}
+td{
+
+}
+li{
+    text-align: left;
+}
+h2{
+    text-align: left;
 }
